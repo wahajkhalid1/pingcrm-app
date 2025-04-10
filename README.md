@@ -86,12 +86,7 @@ The backend API will be available at `http://localhost:8000`
 
 ## Database Setup
 
-1. Create a PostgreSQL database:
-```bash
-createdb pingcrm
-```
-
-2. Update the `DATABASE_URL` in your backend `.env` file with your database credentials.
+1. Update the `DATABASE_URL` in your backend `.env` file with your database credentials.
 
 
 ## Deployment URLs
@@ -114,14 +109,3 @@ createdb pingcrm
 ## AI Tools Used
 - [x] ChatGPT
 - [x] Cursor
-
-## Contributing
-
-1. Fork the repository
-2. Create a new branch for your feature
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-[Add your license information here]
