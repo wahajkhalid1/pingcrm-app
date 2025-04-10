@@ -9,7 +9,7 @@ A modern CRM application built with React + TypeScript (Frontend) and FastAPI (B
 - **Database**: PostgreSQL (via Supabase/Neon)
 - **Deployment**:
   - Frontend: Vercel
-  - Backend: Render/Deta
+  - Backend: koyeb
 
 ## Prerequisites
 
