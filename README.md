@@ -75,7 +75,6 @@ pip install -r requirements.txt
 4. Create a `.env` file in the backend directory:
 ```env
 DATABASE_URL=postgresql://user:password@localhost:5432/pingcrm
-SECRET_KEY=your-secret-key
 ```
 
 5. Start the backend server:
